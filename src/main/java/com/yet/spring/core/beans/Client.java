@@ -5,6 +5,9 @@ public class Client {
     private String id;
     private String fullName;
 
+    public Client() {
+    }
+
     public Client(String id, String fullName) {
         super();
         this.id = id;
