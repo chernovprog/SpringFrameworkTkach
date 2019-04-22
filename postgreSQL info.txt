@@ -1,4 +1,0 @@
-pass: 1986
-port: 5432
-superuser: postgres
-sql
